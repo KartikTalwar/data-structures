@@ -36,6 +36,7 @@ if __name__ == '__main__':
   q.add_front(2)
   q.add_front(1)
   q.add_rear(3)
+  q.add_rear(4)
   print q.remove_front()
   print q.remove_rear()
 
