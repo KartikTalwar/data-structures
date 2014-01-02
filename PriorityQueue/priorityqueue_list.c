@@ -55,7 +55,6 @@ void insert(PriorityQueueList *data, int value) {
         data->data[data->size++] = value;
       }
     }
-
   }
 }
 
